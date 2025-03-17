@@ -6964,6 +6964,10 @@
 		(uuid "7379d2cc-7690-46c5-8d23-66438fdfabf8")
 	)
 	(no_connect
+		(at 93.98 17.78)
+		(uuid "89a38a7a-fb85-4c33-91f1-586634ee7be1")
+	)
+	(no_connect
 		(at 78.74 63.5)
 		(uuid "a6917d62-3490-4697-8de4-fad864b229df")
 	)
@@ -6974,6 +6978,15 @@
 	(no_connect
 		(at 165.1 91.44)
 		(uuid "d38aa458-d7c4-47af-ba08-2b6be506a3fd")
+	)
+	(bus_entry
+		(at -101.6 55.88)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e2993c5-9c9b-47f7-bf90-6c20fd772150")
 	)
 	(wire
 		(pts
@@ -12217,7 +12230,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C115962"
+		(property "LCSC" "C7294546"
 			(at 130.81 36.83 0)
 			(effects
 				(font
@@ -12236,6 +12249,15 @@
 			)
 		)
 		(property "Mouser" "520-80-18-33Q-CES-TR"
+			(at 130.81 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 130.81 36.83 0)
 			(effects
 				(font
@@ -13568,6 +13590,15 @@
 			)
 		)
 		(property "Notes" "WARNING: Is there room in the model for this"
+			(at 152.4 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" ""
 			(at 152.4 36.83 0)
 			(effects
 				(font
