@@ -12387,7 +12387,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7294546"
+		(property "LCSC" "C5308002"
 			(at 130.81 36.83 0)
 			(effects
 				(font
@@ -13659,6 +13659,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 201.93 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2775e32f-0cf0-444d-ba5b-ca5ac808f775")
 		)
@@ -13697,7 +13706,7 @@
 		(at 152.4 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "1a7c9e7d-a4d3-4390-bf1e-6a7aa083fdcb")
@@ -13737,7 +13746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2x5p 1.27mm Pogo"
 			(at 152.4 36.83 0)
 			(effects
 				(font
@@ -13746,7 +13755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "WARNING: Is there room in the model for this"
+		(property "Notes" "Adafruit 5434 compatible"
 			(at 152.4 36.83 0)
 			(effects
 				(font
@@ -13755,7 +13764,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" ""
+		(property "DigiKey" "1528-5434-ND"
 			(at 152.4 36.83 0)
 			(effects
 				(font
@@ -13773,7 +13782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "485-5434"
 			(at 152.4 36.83 0)
 			(effects
 				(font
@@ -15495,7 +15504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100V X5R"
 			(at 116.84 144.78 0)
 			(effects
 				(font
@@ -16155,7 +16164,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 165.1 132.715 0)
 			(effects
 				(font
@@ -16191,7 +16200,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C963381"
+		(property "LCSC" "C191023"
 			(at 165.1 128.27 0)
 			(effects
 				(font
@@ -16201,6 +16210,15 @@
 			)
 		)
 		(property "Mouser" "621-1N5819HW-F"
+			(at 165.1 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 165.1 128.27 0)
 			(effects
 				(font
@@ -17295,7 +17313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PicoBlade 1x6 right-angle Header"
+		(property "Description" "PicoBlade 1x2 right-angle Header"
 			(at 234.95 73.66 0)
 			(effects
 				(font
@@ -17313,7 +17331,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "WM1746-ND"
+		(property "DigiKey" "WM7620CT-ND"
 			(at 234.95 73.66 0)
 			(effects
 				(font
@@ -17322,7 +17340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "538-53048-0610"
+		(property "Mouser" "53261-0271"
 			(at 234.95 73.66 0)
 			(effects
 				(font
@@ -17331,7 +17349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "MouserAlt: 53261-0671; DigiKeyAlt: WM7624CT-ND"
+		(property "Notes" "Order cable ‎0151340201, it's female to female 100mm. Cut in half, makes two peel motor pigtails"
 			(at 234.95 73.66 0)
 			(effects
 				(font
@@ -17907,7 +17925,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "95678e01-457c-4e74-b77a-cfa13604fb9e")
 		(property "Reference" "#PWR0114"
 			(at 170.18 147.32 0)
@@ -17919,7 +17936,7 @@
 			)
 		)
 		(property "Value" "+10V"
-			(at 170.18 139.9055 0)
+			(at 170.18 139.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19077,7 +19094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" "MouserAlt: 53261-0671; DigiKeyAlt: WM7624CT-ND"
+		(property "Notes" ""
 			(at 242.57 27.94 0)
 			(effects
 				(font
@@ -19711,7 +19728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100uf 50V 2000H@105c ±20%"
+		(property "Description" "100uf 35V 2000H@105c ±20%"
 			(at 110.49 133.35 0)
 			(effects
 				(font
@@ -19720,7 +19737,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C962164"
+		(property "LCSC" "C178512"
 			(at 110.49 133.35 0)
 			(effects
 				(font
@@ -19729,7 +19746,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "565-EMZR500ARA101MF80GCT-ND"
+		(property "DigiKey" "PCE3951CT-ND"
 			(at 110.49 133.35 0)
 			(effects
 				(font
@@ -19738,7 +19755,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "661-EMZR500ARA101MF8"
+		(property "Mouser" "667-EEE-1VA101XP"
+			(at 110.49 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 110.49 133.35 0)
 			(effects
 				(font
